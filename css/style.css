@@ -43,6 +43,7 @@ body {
 }
 
 .name {
+    pointer-events: none;
     position: absolute;
     top: 80px;
     left: 0;
